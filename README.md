@@ -1,4 +1,3 @@
-# How_to_convert_wifi_router_to_something_useful
 # 🚀 RT-AC1200G+ MEGA-BUILD GUIDE
 **Transform Your Router Into a Network Command Center**
 
